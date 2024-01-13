@@ -10,12 +10,12 @@ a {
     text-decoration: none;
 }
 
-.navigation-list-main:focus {
+.navigation-list:focus {
     color: #404bbf;
     text-decoration: underline;
 }
 
-.navigation-list-main:active {
+.navigation-list:active {
     color: #404bbf;
     text-decoration: underline;
 }
