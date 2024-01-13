@@ -53,12 +53,17 @@ ul {
     text-align: left;
 }
 
-.contacts {
+.contacts-section {
     font-style: normal;
+}
+
+.contacts {
+    color: #434455;
     line-height: 24px;
     letter-spacing: 0.02em;
     text-align: left;
 }
+
 
 .banner {
     background-color: #2e2f42;
@@ -88,7 +93,7 @@ ul {
     color: #2e2f42;
     font-size: 20px;
     font-weight: 500;
-    line-height: 1.07;
+    line-height: 1.2;
     letter-spacing: 0.02em;
     text-align: left;
 }
