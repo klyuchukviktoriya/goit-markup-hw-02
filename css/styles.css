@@ -10,12 +10,25 @@ a {
     text-decoration: none;
 }
 
-a:focus {
+.navigation-list-main:focus {
+    color: #404bbf;
+    text-decoration: underline;
+}
+
+.navigation-list-main:active {
+    color: #404bbf;
+    text-decoration: underline;
+}
+
+.navigation-list-main:hover {
     color: #404bbf;
 }
 
 
-.contacts:hover,
+.contacts:hover {
+    color: #404bbf;
+}
+
 .contacts:focus {
     color: #404bbf;
 }
