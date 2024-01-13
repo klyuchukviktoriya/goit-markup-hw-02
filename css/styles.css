@@ -1,0 +1,156 @@
+body {
+    color: #434455;
+    background-color: #FFFFFF;
+    font-weight: 400;
+    font-size: 16px;
+    font-family: 'Roboto', 'Poppins', 'Montserrat', 'Oswald', sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+.a:hover,
+.a:active,
+.contacts:hover, 
+.button-style {
+    color: #404BBF;
+} 
+
+ul {
+    list-style-type: none;
+}
+
+.logo-left-side {
+    color: #4D5AE5;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 21px;
+    letter-spacing: 0.03em;
+    text-align: left;
+    font-family: 'Raleway';    
+}
+
+.logo-right-side {
+    color: #2E2F42;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 21px;
+    letter-spacing: 0.03em;
+    text-align: left;
+    font-family: 'Raleway';
+}
+
+.navigation-list {
+    color: #2E2F42;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    text-align: left;
+}
+
+.contacts {
+    font-style: normal;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    text-align: left;
+}
+
+.banner {
+    background-color: #2E2F42;
+}
+
+.banner-title {
+    color: #FFFFFF;
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 60px;
+    letter-spacing: 0.02em;
+    text-align: center;
+}
+
+.button-style {
+    color: #FFFFFF;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.04em;
+    text-align: left;
+    background-color: #4D5AE5;
+    cursor: pointer;
+}
+
+.features-section-name {
+    color: #2E2F42;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    text-align: left;
+}
+
+.features-discription {
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    text-align: left;
+}
+
+.section-title {
+    color: #2E2F42;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 40px;
+    letter-spacing: 0.02em;
+    text-align: center;
+}
+
+.team {
+    background-color: #F4F4FD;
+}
+
+.team-list {
+    background-color: #FFFFFF;
+}
+
+.teammate {
+    color: #2E2F42;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    text-align: center;
+}
+
+.teammate-position {
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    text-align: center;
+}
+
+.project {
+    color: #2E2F42;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    text-align: left;
+}
+
+.project-type {
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    text-align: left;
+}
+
+.below-info {
+    color: #F4F4FD;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    text-align: left;
+}
+
+.below {
+    background-color: #2E2F42;
+}
+.below .logo-right-side {
+    color: #F4F4FD;
+}
