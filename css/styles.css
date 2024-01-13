@@ -10,13 +10,19 @@ a {
     text-decoration: none;
 }
 
-a:hover,
-a:active,
+a:focus {
+    color: #404bbf;
+}
+
+
 .contacts:hover,
-.contacts:active, 
+.contacts:focus {
+    color: #404bbf;
+}
+
 .button-style:hover,
 .button-style:focus {
-    color: #404bbf;
+    background-color: #404bbf;
 } 
 
 ul {
